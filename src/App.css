@@ -35,6 +35,18 @@
 
 .card {
   padding: 2em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.input{
+  width: 5em;
+}
+
+.btn {
+  margin-top: 20px
 }
 
 .read-the-docs {

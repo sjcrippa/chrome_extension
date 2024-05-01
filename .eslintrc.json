@@ -20,6 +20,7 @@
     ],
     "rules": {
         "eslint-plugin-import/no-absolute-path": "off",
+        "@typescript-eslint/no-non-null-assertion": "off",
         "react-refresh/only-export-components": [
             "warn",
             { "allowConstantExport": true }
